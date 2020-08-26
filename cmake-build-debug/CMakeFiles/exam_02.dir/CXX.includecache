@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projects/C++/ITSTEP/exam_02/Graphics.cpp
+string
+-
+
+D:/Projects/C++/ITSTEP/exam_02/main.cpp
+iostream
+-
+algorithm
+-
+string
+-
+fstream
+-
+random
+-
+list
+-
+ctime
+-
+Graphics.cpp
+D:/Projects/C++/ITSTEP/exam_02/Graphics.cpp
+
